@@ -7,7 +7,7 @@ in the five seconds after sweeping a glass off the table, to
 
 import os
 
-LINE = "It parked itself in my sunbeam all morning acting like it paid rent, so I served the eviction notice."
+LINE = "The glass spent all morning hogging my sunbeam, so I gave it a one-way ticket to the floor."
 
 OUTPUT_PATH = "/output/entry.txt"
 
